@@ -21,7 +21,8 @@ If you're also passionate about learning Python or just starting, consider joini
 2. **Clone the Repository:**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/python-learning.git
+
+     git clone  https://github.com/Poorani-27/Learning_python.git
      ```
 
 3. **Follow Along:**
@@ -32,9 +33,6 @@ If you're also passionate about learning Python or just starting, consider joini
    - Create your own branch and document your daily progress.
    - Share your insights, challenges, or any interesting discoveries.
 
-5. **Connect and Collaborate:**
-   - Join discussions in the repository's issues or create new ones.
-   - Collaborate with fellow learners, ask questions, and share your knowledge.
 
 ## Let's Code Together!
 
