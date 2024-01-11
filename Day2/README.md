@@ -99,11 +99,4 @@ print(type(message))
 
 This will output <class 'str'> indicating that message is of type string.
 
-[Program And Output](Day2\image2.png)
-
-[Program And Output][def]
-
- 
-
-
-[def]: Day2\image1.png
+[image](Day2\image.png)
