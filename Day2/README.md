@@ -98,5 +98,4 @@ message = "Hello"
 print(type(message))
 
 This will output <class 'str'> indicating that message is of type string.
-
-![image](Day2\image.png)
+![Image](Day2/image.png)
