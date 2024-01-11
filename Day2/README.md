@@ -99,4 +99,4 @@ print(type(message))
 
 This will output <class 'str'> indicating that message is of type string.
 
-[image](Day2\image.png)
+![image](Day2\image.png)
