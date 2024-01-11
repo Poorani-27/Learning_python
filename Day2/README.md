@@ -98,4 +98,4 @@ message = "Hello"
 print(type(message))
 
 This will output <class 'str'> indicating that message is of type string.
-![Image](Day2/image.png)
+![Image](https://github.com/Poorani-27/Learning_python/blob/main/Day2/image.png)
