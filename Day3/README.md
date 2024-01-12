@@ -4,6 +4,8 @@
 
 In Python, keywords are reserved words that have specific meanings and cannot be used as identifiers (variable names, function names, etc.). Here's a list of some important Python keywords:
 
+case sensitive
+
 ```python
 False      class      finally    is         return
 None       continue   for        lambda     try
