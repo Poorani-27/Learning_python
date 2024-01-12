@@ -19,4 +19,4 @@
 
 ...
 
-![Python Logo](https://github.com/Poorani-27/Learning_python/blob/main/Day1/first_program.png)
+![Image](https://github.com/Poorani-27/Learning_python/blob/main/Day1/first_program.png)
