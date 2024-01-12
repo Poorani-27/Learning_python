@@ -14,7 +14,7 @@ and        del        global     not        with
 as         elif       if         or         yield
 assert     else       import     pass       break
 except     in         raise
-
+```
 # Getting User Input in Python
 
 
@@ -35,4 +35,4 @@ When working with Python, there are various scenarios where you might need to co
 
 The `split()` method is a handy way to separate multiple inputs entered in a single line.
 
-![image](Day3\image3.png)
+![image](https://github.com/Poorani-27/Learning_python/blob/main/Day3/image3.png)
