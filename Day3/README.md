@@ -34,3 +34,5 @@ When working with Python, there are various scenarios where you might need to co
 ## Using `split()` Method
 
 The `split()` method is a handy way to separate multiple inputs entered in a single line.
+
+![image](Day3\image3.png)
