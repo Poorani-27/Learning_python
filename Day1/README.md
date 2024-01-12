@@ -9,7 +9,7 @@
    - Visited the official [Python website](https://www.python.org/) and followed the installation instructions for my operating system (macOS/Windows/Linux).
    - Successfully installed Python on my local machine.
 
-2. **Chose a Code Editor:**
+2. **Chose a Code Editor:** 
    - Explored various code editors and selected [Visual Studio Code](https://code.visualstudio.com/) for writing Python code.
    - Installed and configured Visual Studio Code for Python development.
 
