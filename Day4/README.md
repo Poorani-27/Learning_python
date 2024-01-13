@@ -61,7 +61,7 @@ def add_numbers(a, b):
     "" return a + b
 ```
 
-In summary, comments in Python are essential for maintaining clean, readable, and understandable code. They play a crucial role in code documentation, making it easier for developers to collaborate and maintain the codebase.
+ comments in Python are essential for maintaining clean, readable, and understandable code. They play a crucial role in code documentation, making it easier for developers to collaborate and maintain the codebase.
 <br>
 
- ![Image](Day4\Day4.png)
+ ![Image](https://github.com/Poorani-27/Learning_python/blob/main/Day4/Day4.png)
