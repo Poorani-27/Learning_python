@@ -49,4 +49,4 @@
 
     <br>
 
-    ![Day 6 Image](Link_to_your_image_for_day_6)
+    ![Day 6 Image](DAY6/Day6.png)
