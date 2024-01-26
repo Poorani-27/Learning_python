@@ -49,4 +49,4 @@
 
     <br>
 
-    ![Day 6 Image](DAY6/Day6.png)
+    ![Day 6 Image](./Day6.png)
