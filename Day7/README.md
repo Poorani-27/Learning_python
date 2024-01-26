@@ -56,3 +56,20 @@
 16. **Sine, Cosine, and Tangent:**
     - Calculated the sine, cosine, and tangent values using `math.sin()`, `math.cos()`, and `math.tan()`.
 
+17. **Trigonometric Inverse Functions:**
+    - Explored `math.asin()`, `math.acos()`, and `math.atan()` for finding angles based on trigonometric ratios.
+
+18. **Hyperbolic Functions:**
+    - Learned about hyperbolic functions using `math.sinh()`, `math.cosh()`, and `math.tanh()`.
+
+19. **Mathematical Constants:**
+    - Utilized mathematical constants like `math.pi` and `math.e` in various calculations.
+
+![Day 7 Image](./math_fun.png)
+
+<br>
+![Day 7 Image](./Random_fun.png)
+
+<br>
+![Day 7 Image](./trigono.png)
+
