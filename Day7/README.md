@@ -71,5 +71,5 @@
 ![Day 7 Image](./Random_fun.png)
 
 <br>
-![Day 7 Image](./trigono.png)
+![Day 7 Image](./trigono.pngg)
 
