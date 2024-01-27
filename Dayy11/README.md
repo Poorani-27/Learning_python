@@ -17,7 +17,7 @@
 3. **If Statement:**
    - Explored the `if` statement, consisting of a boolean expression followed by one or more statements.
    - Used an example to provide a discount if the amount is greater than 1000.
-   ![](if%20statment.png)
+   ![](if%20statment.png | width = 250)
 
 4. **If-Else Statement:**
    - Introduced the `if-else` statement, where the `else` statement executes when the boolean expression in `if` is false.
@@ -26,7 +26,7 @@
 5. **If-Elif-Else Statement:**
    - Utilized the `if-elif-else` statement to check multiple expressions.
    - Illustrated providing different discounts based on various conditions.
-   ![](if%20else.png)
+   ![](if%20else.png | width=250)
 
 
 6. **Single Statement Suites:**
