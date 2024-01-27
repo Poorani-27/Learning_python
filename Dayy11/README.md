@@ -17,7 +17,8 @@
 3. **If Statement:**
    - Explored the `if` statement, consisting of a boolean expression followed by one or more statements.
    - Used an example to provide a discount if the amount is greater than 1000.
-   ![](if%20statment.png | width = 250)
+   ![Your Image](if%20else.png | width=300)
+
 
 4. **If-Else Statement:**
    - Introduced the `if-else` statement, where the `else` statement executes when the boolean expression in `if` is false.
