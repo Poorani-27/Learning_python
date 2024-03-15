@@ -9,7 +9,7 @@ This repository documents my daily progress as I embark on a journey to learn Py
 ## How to Explore
 
 - Each day's progress is documented in individual folders (e.g., Day 1, Day 2).
-- You'll find detailed notes, code snippets, and any challenges I encountered during the learning process.
+- You'll find detailed notes, code snippets, and any challenges I encountered during the learning process
 
 ## Join the Journey
 

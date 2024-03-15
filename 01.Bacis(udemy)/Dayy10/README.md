@@ -52,5 +52,4 @@
 12. **Building List Functions:**
     - Explored functions like `len()`, `max()`, and `min()` on lists.
     - Converted a tuple and a string into lists.
-
 ![day10](day10.png)

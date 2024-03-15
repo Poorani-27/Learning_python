@@ -57,3 +57,7 @@ Expected Output: True
 a=[1,2,3,2,1]
 print(a == list(reversed(a)))
 # print(a==a[::-1])
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8c1a8e224373fc7f299a9e0308766048dd92d057

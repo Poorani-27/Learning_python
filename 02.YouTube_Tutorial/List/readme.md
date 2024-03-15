@@ -6,4 +6,7 @@
   - Exploring various list methods for manipulation, including adding, removing, and sorting elements.
   - Implementing list comprehension for creating new lists efficiently.
   - Exploring advanced list operations such as filtering, reducing, and mapping.
-![](Untitled.png)
+
+
+ ![](Untitled.png)
+![](code.png)
