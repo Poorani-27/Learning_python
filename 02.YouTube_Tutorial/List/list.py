@@ -123,3 +123,16 @@ print("mapping")
 print("list :",a)
 a1=list(map(lambda x : x*2,a))
 print("Increasing each element*2",a1)
+
+a=["apple","papaya","banana","orange","cherry"]
+a.sort()
+print(a)
+a.reverse()
+print(a)
+a=["apple","papaya","banana","orange","cherry"]
+print(a)
+a.sort(reverse=True)
+print(a)
+a=["apjw","p","banaeeww","or","chey"]
+a.sort(key=len)
+print(a)

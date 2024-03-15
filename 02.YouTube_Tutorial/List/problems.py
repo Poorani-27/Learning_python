@@ -57,10 +57,3 @@ Expected Output: True
 a=[1,2,3,2,1]
 print(a == list(reversed(a)))
 # print(a==a[::-1])
-
-'''
-Implement a function to rotate the elements of a list to the left by a given number of positions.
-
-Input: [1, 2, 3, 4, 5], 2
-Expected Output: [3, 4, 5, 1, 2]
-'''
