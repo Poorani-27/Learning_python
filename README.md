@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-Welcome to my Python learning repository! 🐍✨
+Welcome to my Python learning repository! 🐍
 
 ## About This Repository
 
