@@ -6,6 +6,8 @@ Logarithmic complexity, often denoted as O(log n), describes algorithms whose ti
 
 ## Binary Search
 
+
+
 Binary search is an efficient algorithm for finding the position of a target value within a sorted array. It works by repeatedly dividing the search interval in half until the target element is found or the search interval is empty.
 
 ## Time Complexity
