@@ -15,6 +15,7 @@ This repository documents my daily progress as I embark on a journey to learn Py
 
 If you're also passionate about learning Python or just starting, consider joining this learning journey! Here's how:
 
+
 1. **Fork this Repository:**
    - Fork this repository to your GitHub account.
 
