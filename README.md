@@ -4,7 +4,7 @@ Welcome to my Python learning repository
 
 ## About This Repository
 
-This repository documents my daily progress as I embark on a journey to learn Python from scratch. The goal is to build a solid foundation in Python programming, explore various concepts, and work on hands-on projects.
+This repository documents my daily progress as I embark on a  journey to learn Python from scratch. The goal is to build a solid foundation in Python programming, explore various concepts, and work on hands-on projects.
 
 ## How to Explore
 
